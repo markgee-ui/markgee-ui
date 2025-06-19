@@ -1,5 +1,5 @@
  # 👋 Hi, I'm Mark Ngugi
-### 🖥️ Data Science | AI  | Machine Learning | Tech Enthuasist | Laravel Developer
+### 🖥️ Data Sciencist | AI  & Machine Learning Engineer | Tech Enthuasist | Laravel Developer
 
 🚀 Projects:
 - 🔗 [E-Taka](https://github.com/markgee-ui/etaka) - E-waste Management System
