@@ -1,5 +1,5 @@
- # 👋 Hi, I'm Mark Ngugi
-### 🖥️ Data Sciencist | AI  & Machine Learning Engineer | Tech Enthuasist | Software Developer
+ # 👋 Jambo, I'm Mark Ngugi
+### 🖥️  Software Developer | Data Sciencist | AI  & Machine Learning Engineer | Tech Enthuasist 
 
 🚀 Projects:
 - 🔗 [E-Taka](https://github.com/markgee-ui/etaka) - E-waste Management System
